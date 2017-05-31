@@ -1,5 +1,5 @@
 # Evan Chrome Extension
-## Say hello to Evant, your personal sharepoint Assistant!
+## Say hello to Evan, your personal sharepoint Assistant!
 
 ### Chrome Extension Info
 At a very basic level, a Chrome extension is just some HTML, CSS and JavaScript that allows you to add some functionality to Chrome through some of the JavaScript APIs Chrome exposes. An extension is basically just a web page that is hosted within Chrome and can access some additional APIs.
