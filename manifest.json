@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Evan",
+  "description": "Evan is a personal assistant for anyone using SharePoint",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "assets/icon.png",
+   "default_popup": "extension.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
